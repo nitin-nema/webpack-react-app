@@ -13,7 +13,7 @@ commands to create a React application using Webpack and Babel from scratch
 6. Install HTML Webpack Plugin (to auto-generate index.html):
    npm install --save-dev html-webpack-plugin
 7. Install CSS Loader and Style Loader:
-  npm install --save-dev css-loader style-loader
+  npm install --save-dev css-loader style-loader file-folder
 9. Create Folder Structure:
   mkdir src public
 10. for mac/linux/unix
