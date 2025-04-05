@@ -16,4 +16,5 @@ commands to create a React application using Webpack and Babel from scratch
   npm install --save-dev css-loader style-loader
 9. Create Folder Structure:
   mkdir src public
- touch src/index.js src/App.jsx public/index.html webpack.config.js .babelrc
+10. touch src/index.js src/App.jsx 
+public/index.html webpack.config.js .babelrc
